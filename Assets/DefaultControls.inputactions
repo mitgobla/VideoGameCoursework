@@ -1,0 +1,22 @@
+{
+    "name": "DefaultControls",
+    "maps": [
+        {
+            "name": "Default",
+            "id": "4559c9b7-8dd3-4d65-a3b2-2d3717ce4f9f",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "6edd18cb-1bec-49a0-a57b-2b5191ab9c97",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": []
+}

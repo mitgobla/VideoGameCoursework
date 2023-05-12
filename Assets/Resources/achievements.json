@@ -1,0 +1,19 @@
+{
+    "achievements": [
+        {
+            "AchievementID": "sneaky_virus",
+            "AchievementName": "Sneaky Virus",
+            "AchievementDescription": "Infect every folder without dying once."
+        },
+        {
+            "AchievementID": "hackerman",
+            "AchievementName": "Hackerman",
+            "AchievementDescription": "Infect a folder in less than 20 seconds."
+        },
+        {
+            "AchievementID": "super_virus",
+            "AchievementName": "Super Virus",
+            "AchievementDescription": "Beat 5 levels in a row without dying."
+        }
+    ]
+}
